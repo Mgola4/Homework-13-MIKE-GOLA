@@ -1,0 +1,24 @@
+{
+  "name": "homework-13-mike-gola",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mgola4/Homework-13-MIKE-GOLA.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mgola4/Homework-13-MIKE-GOLA/issues"
+  },
+  "homepage": "https://github.com/Mgola4/Homework-13-MIKE-GOLA#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
